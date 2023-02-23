@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include "main.h"
 /**
- *main - print_putchar
- *is written by Lizley
- *Return:0
- */
+*main - print_putchar
+*is written by Lizley
+*Return:0
+*/
 
 int main(void)
 {
@@ -17,5 +17,5 @@ putchar('h');
 putchar('a');
 putchar('r');
 putchar('\n');
- return (0);
+return (0);
 }
