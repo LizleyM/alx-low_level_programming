@@ -1,15 +1,20 @@
-#include <stdio.h>
+#include <main.h>
+/**
+ *main-print_putchar
+ *is written by Lizley
+ *Return:0
+ */
 
 int main(void)
 {
-    putchar('_');
-    putchar('p');
-    putchar('u');
-    putchar('t');
-    putchar('c');
-    putchar('h');
-    putchar('a');
-    putchar('r');
-    putchar('\n');
+   _ putchar('_');
+   _ putchar('p');
+   _ putchar('u');
+   _ putchar('t');
+   _ putchar('c');
+   _ putchar('h');
+   _ putchar('a');
+   _ putchar('r');
+   _ putchar('\n');
     return 0;
 }
