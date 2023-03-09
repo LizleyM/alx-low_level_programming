@@ -1,4 +1,2 @@
 #!/bin/bash
-CFILE=${CFILE:-main.c}
-OUTPUT=$(basename ${CFOLE%.C}.o)
 gcc -c ${CFILE} -o ${OUTPUT}
